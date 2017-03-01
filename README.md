@@ -1,8 +1,8 @@
 # Open Data Day, Granada, 2017
 
-Este año nos volvemos a reunir para hablar de datos abiertos, de
-patrimonio abierto, y a machacar datos y sacar todo lo que podamos de
-ellos.
+Este año, durante el fin de semana del 4 y 5 de marzo, nos volvemos a
+reunir para hablar de datos abiertos, de patrimonio abierto y para
+machacar datos y sacar todo lo que podamos de ellos.
 
 # Qué
 
@@ -46,15 +46,12 @@ alguno más y estás dispuesto a trabajar con las personas que quieran
 sumarse a ese proyecto, no tienes más que proponerlo en los
 comentarios de la página de inscripción. 
 
-# Cómo
+# Dónde
 
-El Open Data Day incluirá interesantes talleres sobre Patrimonio en la
-UGR, que se convertirá en un proyecto si hay interés suficiente. 
-
-Muy importante: **tráete tu portátil**. La mejor forma de colaborar
-con el hackatón es trabajando con un teclado. Un *tablet* puede ser la
-segunda mejor cosa, sobre todo si te dedicas a visualizar o a probar,
-pero lo mejor es que ayudes escribiendo, programando o probando. 
+Como otros años, el evento se realizará en la
+[Corrala de Santiago](http://corraladesantiago.ugr.es/), donde tendremos
+espacio suficiente para realizar los talleres y para trabajar después
+con comodidad.
 
 Tampoco es necesario que estés allí todo el tiempo. Puedes ir y venir,
 trabajar en tu casa o dejar de hacerlo. Cuanto más tiempo estés, más
@@ -64,6 +61,16 @@ al esfuerzo conjunto. Pero no es estrictamente necesario.
 La Corrala está conectada a la red de la
 [universidad](https://www.ugr.es), y tendremos cuentas de invitados
 para las personas que no tengan cuenta en la misma. 
+
+# Cómo
+
+El Open Data Day incluirá interesantes talleres sobre Patrimonio en la
+UGR, que se convertirá en un proyecto si hay interés suficiente.
+
+Muy importante: **tráete tu portátil**. La mejor forma de colaborar
+con el hackatón es trabajando con un teclado. Un *tablet* puede ser la
+segunda mejor cosa, sobre todo si te dedicas a visualizar o a probar,
+pero lo mejor es que ayudes escribiendo, programando o probando.
 
 ## Cómo trabajar con los diferentes proyectos.
 
@@ -196,7 +203,7 @@ A la vez, este Open Data Day tiene también un foco en la ciencia abierta. Duran
 
 # Cuándo
 
-Comenzaremos el sábado alrededor de las 10 de la mañana,
+Comenzaremos el sábado 4 de marzo alrededor de las 10 de la mañana,
 conociéndonos, formando grupos y viendo el trabajo que hay por
 delante. También buscando espacios dentro de la Corrala donde todos
 podamos trabajar cómodamente. Terminaremos el domingo por la tarde,
