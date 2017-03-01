@@ -165,6 +165,13 @@ Los diferentes subproyectos que se incluyen en este son:
 * Publicación de un informe sobre contaminación en una ciudad
   determinada.
   
+A la vez, el foco del [Open Data Day](http://opendataday.org) es sobre
+contaminación. Cualquier otro proyecto relacionado con la misma tendrá
+cabida. Por ejemplo
+* Sensores *low-cost* de contaminación atmosférica usando cámaras de
+  tráfico o la cámara del móvil.
+* Observatorio de redes sociales sobre comentarios sobre contaminación
+  o palabras relacionadas con los efectos de la contaminación.
 
 
 # Cuándo
