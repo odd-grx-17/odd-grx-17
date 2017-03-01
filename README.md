@@ -181,3 +181,6 @@ aquí.
 # Por qué
 
 
+Porque nos gusta trabajar con datos, crear cosas que beneficien a todo
+el mundo, y entender mejor el mundo en el que vivimos a través del
+análisis y la publicación de datos. 
