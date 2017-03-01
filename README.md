@@ -136,6 +136,13 @@ de este proyecto, junto con
 mapa, que se debería actualizar automáticamente según se añadan nuevos
 elementos a la Wikipedia. 
 
+Buscamos colaboradores que sepan:
+* Trabajar con APIs.
+* Editar y revisar artículos en la Wikipedia.
+* Conocimientos de visualización de datos.
+* Análisis de situación y contextualización de la misma.
+* Fotografiar y procesar fotos para subirlas, con contenido libre, a la Wikipedia. 
+
 ### Contaminación en Andalucía: proyecto ContaminAND
 
 Se habla mucho de la contaminación en Madrid, pero relativamente poco
@@ -172,6 +179,17 @@ cabida. Por ejemplo
   tráfico o la cámara del móvil.
 * Observatorio de redes sociales sobre comentarios sobre contaminación
   o palabras relacionadas con los efectos de la contaminación.
+
+Buscamos a gente que pueda
+* Idear sensores de bajo coste de contaminación basados en la luz, sensores de bajo coste, monitorización de sensores existentes, es decir, cacharreo.
+* Programar un servidor.
+* Escribir una historia basada en los datos obtenidos, relacionándolos con datos de salud.
+* Desplegar los servidores en infraestructura Azure en la nube.
+* Aplicar algoritmos de aprendizaje automático para predecir contaminación a corto y medio plazo.
+* Programar apps de móviles.
+* Crear juegos que usen los datos de contaminación para gamificar hábitos y evitarla.
+* Visualizar de forma original datos de contaminación.
+* Crear historias visuales basadas en los datos obtenidos.
 
 
 # Cuándo
