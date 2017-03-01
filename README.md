@@ -191,6 +191,8 @@ Buscamos a gente que pueda
 * Visualizar de forma original datos de contaminación.
 * Crear historias visuales basadas en los datos obtenidos.
 
+A la vez, este Open Data Day tiene también un foco en la ciencia abierta. Durante el fin de semana se liberarán conjuntos de datos en [Figshare](http://figshare.com) o se usará el Open Science Framework para liberar código, datos e informes técnicos. Se usará RMarkdown o Knitr para crear informes técnicos; si hay quien lo conozca, Jupyter Notebooks también. 
+
 
 # Cuándo
 
