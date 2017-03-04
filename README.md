@@ -158,8 +158,8 @@ de este proyecto es crear un API que permita leer desde *apps* o
 cualquier programa las lecturas de la calidad del aire de las
 diferentes ciudades andaluzas con medidores. En Granada
 [exiten una serie de medidores](http://www.granada.org/inet/wambiente.nsf/b1b426e5d69467c3c125763b0031d0c4/9d664bddf7e64554c125764e003875c0!OpenDocument)
-que depositan los resultados en
-[esta página](http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/feb17/ngr170201.htm). Hay
+que depositan los resultados páginas tales como 
+[esta](http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/feb17/ngr170201.htm). Hay
 que extraer periódicamente los resultados de esa página y publicarlos;
 ese será el foco principal de este subproyecto coordinado en la OSL
 por [JJ](http://github.com/JJ), [Renato](http://github.com/renatolrr) y [Manu](http://github.com/Makova). Trabajaremos sobre este [repositorio](http://github.com/oslugr/contaminAND)
