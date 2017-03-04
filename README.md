@@ -1,8 +1,8 @@
 # Open Data Day, Granada, 2017
 
-Este año nos volvemos a reunir para hablar de datos abiertos, de
-patrimonio abierto, y a machacar datos y sacar todo lo que podamos de
-ellos.
+Este año, durante el fin de semana del 4 y 5 de marzo, nos volvemos a
+reunir para hablar de datos abiertos, de patrimonio abierto y para
+machacar datos y sacar todo lo que podamos de ellos.
 
 # Qué
 
@@ -46,15 +46,12 @@ alguno más y estás dispuesto a trabajar con las personas que quieran
 sumarse a ese proyecto, no tienes más que proponerlo en los
 comentarios de la página de inscripción. 
 
-# Cómo
+# Dónde
 
-El Open Data Day incluirá interesantes talleres sobre Patrimonio en la
-UGR, que se convertirá en un proyecto si hay interés suficiente. 
-
-Muy importante: **tráete tu portátil**. La mejor forma de colaborar
-con el hackatón es trabajando con un teclado. Un *tablet* puede ser la
-segunda mejor cosa, sobre todo si te dedicas a visualizar o a probar,
-pero lo mejor es que ayudes escribiendo, programando o probando. 
+Como otros años, el evento se realizará en la
+[Corrala de Santiago](http://corraladesantiago.ugr.es/), donde tendremos
+espacio suficiente para realizar los talleres y para trabajar después
+con comodidad.
 
 Tampoco es necesario que estés allí todo el tiempo. Puedes ir y venir,
 trabajar en tu casa o dejar de hacerlo. Cuanto más tiempo estés, más
@@ -64,6 +61,16 @@ al esfuerzo conjunto. Pero no es estrictamente necesario.
 La Corrala está conectada a la red de la
 [universidad](https://www.ugr.es), y tendremos cuentas de invitados
 para las personas que no tengan cuenta en la misma. 
+
+# Cómo
+
+El Open Data Day incluirá interesantes talleres sobre Patrimonio en la
+UGR, que se convertirá en un proyecto si hay interés suficiente.
+
+Muy importante: **tráete tu portátil**. La mejor forma de colaborar
+con el hackatón es trabajando con un teclado. Un *tablet* puede ser la
+segunda mejor cosa, sobre todo si te dedicas a visualizar o a probar,
+pero lo mejor es que ayudes escribiendo, programando o probando.
 
 ## Cómo trabajar con los diferentes proyectos.
 
@@ -136,6 +143,13 @@ de este proyecto, junto con
 mapa, que se debería actualizar automáticamente según se añadan nuevos
 elementos a la Wikipedia. 
 
+Buscamos colaboradores que sepan:
+* Trabajar con APIs.
+* Editar y revisar artículos en la Wikipedia.
+* Conocimientos de visualización de datos.
+* Análisis de situación y contextualización de la misma.
+* Fotografiar y procesar fotos para subirlas, con contenido libre, a la Wikipedia. 
+
 ### Contaminación en Andalucía: proyecto ContaminAND
 
 Se habla mucho de la contaminación en Madrid, pero relativamente poco
@@ -165,11 +179,31 @@ Los diferentes subproyectos que se incluyen en este son:
 * Publicación de un informe sobre contaminación en una ciudad
   determinada.
   
+A la vez, el foco del [Open Data Day](http://opendataday.org) es sobre
+contaminación. Cualquier otro proyecto relacionado con la misma tendrá
+cabida. Por ejemplo
+* Sensores *low-cost* de contaminación atmosférica usando cámaras de
+  tráfico o la cámara del móvil.
+* Observatorio de redes sociales sobre comentarios sobre contaminación
+  o palabras relacionadas con los efectos de la contaminación.
+
+Buscamos a gente que pueda
+* Idear sensores de bajo coste de contaminación basados en la luz, sensores de bajo coste, monitorización de sensores existentes, es decir, cacharreo.
+* Programar un servidor.
+* Escribir una historia basada en los datos obtenidos, relacionándolos con datos de salud.
+* Desplegar los servidores en infraestructura Azure en la nube.
+* Aplicar algoritmos de aprendizaje automático para predecir contaminación a corto y medio plazo.
+* Programar apps de móviles.
+* Crear juegos que usen los datos de contaminación para gamificar hábitos y evitarla.
+* Visualizar de forma original datos de contaminación.
+* Crear historias visuales basadas en los datos obtenidos.
+
+A la vez, este Open Data Day tiene también un foco en la ciencia abierta. Durante el fin de semana se liberarán conjuntos de datos en [Figshare](http://figshare.com) o se usará el Open Science Framework para liberar código, datos e informes técnicos. Se usará RMarkdown o Knitr para crear informes técnicos; si hay quien lo conozca, Jupyter Notebooks también. 
 
 
 # Cuándo
 
-Comenzaremos el sábado alrededor de las 10 de la mañana,
+Comenzaremos el sábado 4 de marzo alrededor de las 10 de la mañana,
 conociéndonos, formando grupos y viendo el trabajo que hay por
 delante. También buscando espacios dentro de la Corrala donde todos
 podamos trabajar cómodamente. Terminaremos el domingo por la tarde,
@@ -181,3 +215,6 @@ aquí.
 # Por qué
 
 
+Porque nos gusta trabajar con datos, crear cosas que beneficien a todo
+el mundo, y entender mejor el mundo en el que vivimos a través del
+análisis y la publicación de datos. 
